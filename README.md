@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skylags" alt="skylags" /></a> </p>
 
-- 🔭 I’m currently exploring **Linux Kernel**
+- 🔭 I’m currently working as Software Development Engineer Intern at **ShareChat**
 
-- 🌱 I’m currently learning **Flutter, Firebase, and SQL**
-
-- 👨‍💻 Visit my portfolio [http://www.skylags.cf](http://www.skylags.cf)
+- 🌱 I’m currently learning **Django-Rest, Node, Express**
 
 - 📝 I contribute to GeeksforGeeks [https://auth.geeksforgeeks.org/user/skylags](https://auth.geeksforgeeks.org/user/skylags)
 
