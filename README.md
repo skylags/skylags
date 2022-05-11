@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skylags" alt="skylags" /></a> </p>
 
-- 🔭 I’m currently working as Software Development Engineer Intern at [ShareChat](https://sharechat.com/)
+- 🔭 I’m currently working as Software Development Engineer Intern at [ShareChat](https://sharechat.com/).
 
-- 🔭 Currently a part-time Instructor at **Scaler Academy**, Ex-**Unacademy** Educator
+- 🔭 Currently a part-time Instructor at [Scaler Academy/InterviewBit](https://www.scaler.com/), Ex-[Unacademy](https://unacademy.com/@skylags) Educator
 
-- 🌱 I’m currently learning **Django-Rest, Node, Express**
+- 🌱 I’m currently working on **Node, Express, Elastic-search, Spring**
 
 - 📝 I contribute to GeeksforGeeks [https://auth.geeksforgeeks.org/user/skylags](https://auth.geeksforgeeks.org/user/skylags)
 
