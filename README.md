@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skylags" alt="skylags" /></a> </p>
 
-- 🔭 I’m currently working as Software Development Engineer Intern at **ShareChat**
+- 🔭 I’m currently working as Software Development Engineer Intern at [ShareChat](https://sharechat.com/)
 
 - 🔭 Currently a part-time Instructor at **Scaler Academy**, Ex-**Unacademy** Educator
 
