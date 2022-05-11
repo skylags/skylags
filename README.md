@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umang Agrawal</h1>
-<h3 align="center">Competitive Programmer & Linux Kernel Enthusiast</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skylags&label=Profile%20views&color=0e75b6&style=flat" alt="skylags" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Software Development Engineer Intern at **ShareChat**
 
-- 🔭 Currently a part-time Instructor at Scaler Academy, Ex-Unacademy Educator
+- 🔭 Currently a part-time Instructor at **Scaler Academy**, Ex-**Unacademy** Educator
 
 - 🌱 I’m currently learning **Django-Rest, Node, Express**
 
