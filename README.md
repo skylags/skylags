@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working as Software Development Engineer Intern at **ShareChat**
 
+- 🔭 Currently a part-time Instructor at Scaler Academy, Ex-Unacademy Educator
+
 - 🌱 I’m currently learning **Django-Rest, Node, Express**
 
 - 📝 I contribute to GeeksforGeeks [https://auth.geeksforgeeks.org/user/skylags](https://auth.geeksforgeeks.org/user/skylags)
